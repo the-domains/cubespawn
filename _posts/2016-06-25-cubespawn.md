@@ -2,35 +2,34 @@
 author: []
 related: []
 publisher:
-  url: 'http://www.tech3dge.com'
-  name: Tech3dge
-  favicon: 'http://www.tech3dge.com/wp-content/uploads/2016/04/tech3dgeFavicon.png'
-  domain: www.google.com
+  url: 'http://main.cubespawn.com'
+  name: CubeSpawn
+  favicon: >-
+    http://www.cubespawn.com/main/wp-content/uploads/2014/12/cropped-CubeSpawn-Logo-nolettering-192x192.png
+  domain: cubespawn.com
 keywords:
-  - machines
+  - modular
   - cubespawn
-  - electromechanical
-  - 600mm
-  - capabilities
-  - size
-  - applications
-  - kits
-  - mosfets
-  - meter
+  - machining
+  - replication
+  - system
+  - goals
+  - pattern-er
+  - recursion
+  - bench-top
+  - matter
 description: >-
-  The small sizes will focus on capability and affordability, the trade-off
-  being size (smaller build envelopes) the machines in the 600mm range are
-  comparable in size to the existing maker/hacker built CNC's and 3D printers,
-  but we plan to eventually offer higher end servo drives and advanced motion
-  control, to allow higher performance designs in addition to stepper based
-  models.
+  CubeSpawn will be submitting a proposal to Join in helping to write a
+  comprehensive proposal: the Project Folder is here More information here:
+  CubeSpawn is an Open Source project to build a small, affordable, bench-top
+  scale manufacturing system out of modular parts. An additionally goal is to
+  completely automate the production of objects from digital templates.
 inLanguage: en
 app_links: []
-isBasedOnUrl: >-
-  https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=34&cad=rja&uact=8&ved=0ahUKEwjGgPOs7cPNAhWDxYMKHTwuBCA4HhAWCCwwAw&url=http%3A%2F%2Fwww.tech3dge.com%2Fcubespawn%2F&usg=AFQjCNHOnTObJgo55ygGMuL6j2W5HIenyQ&sig2=YqJAJXkDhgLEOmc4F69gFg&bvm=bv.125596728,d.amc
+isBasedOnUrl: 'http://cubespawn.com'
 title: CubeSpawn
-datePublished: '2016-06-25T18:57:48.782Z'
-dateModified: '2016-06-25T18:56:34.561Z'
+datePublished: '2016-06-25T19:02:15.275Z'
+dateModified: '2016-06-25T19:02:04.586Z'
 starred: false
 sourcePath: _posts/2016-06-25-cubespawn.md
 inFeed: true
@@ -40,4 +39,4 @@ _context: 'http://schema.org'
 _type: MediaObject
 
 ---
-<article style=""><h1>CubeSpawn</h1><p>The small sizes will focus on capability and affordability, the trade-off being size (smaller build envelopes) the machines in the 600mm range are comparable in size to the existing maker/hacker built CNC's and 3D printers, but we plan to eventually offer higher end servo drives and advanced motion control, to allow higher performance designs in addition to stepper based models.</p><img src="http://www.tech3dge.com/wp-content/uploads/2016/02/cubeSpawn-283x300.png" /></article>
+<article style=""><h1>CubeSpawn</h1><p>CubeSpawn will be submitting a proposal to Join in helping to write a comprehensive proposal: the Project Folder is here More information here: CubeSpawn is an Open Source project to build a small, affordable, bench-top scale manufacturing system out of modular parts. An additionally goal is to completely automate the production of objects from digital templates.</p><img src="http://www.cubespawn.com/main/wp-content/uploads/2014/12/linkedin_logo-300x300.png" /></article>
