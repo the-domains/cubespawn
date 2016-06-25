@@ -6,9 +6,9 @@ color:
   saturation: 0.39952823985368013
   rhythmicContrast: 0.49966387497261167
   brandColors:
-    - '#FF6700'
-    - '#EBEBEB'
-    - '#C0C0C0'
-    - '#3A6EA5'
-    - '#004E98'
+    - '#FCFFF5'
+    - '#D1DBBD'
+    - '#91AA9D'
+    - '#3E606F'
+    - '#193441'
 name: CubeSpawn
