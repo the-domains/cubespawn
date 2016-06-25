@@ -12,3 +12,6 @@ color:
     - '#3E606F'
     - '#193441'
 name: CubeSpawn
+author:
+  name: James Jones
+  email: CubeSpawn@gmail.com
