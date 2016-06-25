@@ -1,0 +1,14 @@
+layout_spectrum: 0.8056405803654343
+typography_spectrum: 0.7437525566201657
+color:
+  brandStrength: 0.9240881409496069
+  lightness: 0.5026712450198829
+  saturation: 0.39952823985368013
+  rhythmicContrast: 0.49966387497261167
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+name: CubeSpawn
