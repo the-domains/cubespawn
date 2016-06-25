@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[CubeSpawn]]></title>
+        <description><![CDATA[CubeSpawn]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Sat, 25 Jun 2016 18:57:48 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Project - CubeSpawn - 10BitWorks]]></title>
+            <description><![CDATA[<article><h1>Project - CubeSpawn - 10BitWorks</h1><p>We would like to showcase various projects our community is working on, our first project, goes to James Jones' CubeSpawn. CubeSpawn is an open source Flexible Manufacturing System. Some History: Adrian Bowyer, started the RepRap project with the stated intention of putting manufacturing into anyone's hands cheaply.</p><img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/48893b3672facafd38a62d5f01a40267/croprotate.jpg?cropheight=327&cropwidth=584&degrees=0&input=http%3A%2F%2Fwww.10bitworks.com%2Fwp-content%2Fuploads%2F2015%2F09%2F10bitworks-hacker-space-coworking-san-antonio-logo2.jpg&x=8&y=1"></article>]]></description>
+            <link>https://www.google.com/url?sa=t&amp;rct=j&amp;q=&amp;esrc=s&amp;source=web&amp;cd=37&amp;cad=rja&amp;uact=8&amp;ved=0ahUKEwjGgPOs7cPNAhWDxYMKHTwuBCA4HhAWCD0wBg&amp;url=http%3A%2F%2Fwww.10bitworks.com%2F2010%2F07%2F20%2Fproject-cubespawn%2F&amp;usg=AFQjCNElgRkuWYwb7YaHfevLSg4Ax64KPg&amp;sig2=_1RCLZveybC6s97dO4D-rA&amp;bvm=bv.125596728,d.amc</link>
+            <guid isPermaLink="false">4f3b1d1c-6778-450e-a142-90c672a8ba2b</guid>
+            <pubDate>Sat, 25 Jun 2016 18:57:46 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
